@@ -26,6 +26,8 @@
 
 ## Introduction
 
+*Solution completed.*
+
 ### Background
 
 This problem tests algorithmic problem-solving skills.
